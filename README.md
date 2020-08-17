@@ -6,3 +6,8 @@
 2020-7-13 10:54:49 
 上传了有刷驱动的第一版硬件原理图.
 Upload the first version of BD driver`s hardware file.
+
+2020-8-17 12:11:18
+上传了有刷驱动的Gerber文件.
+Upload the gerber files of it.
+Location:\MyWorkFor\Close-Loop-DC-Brush-Driver\Hardware\Product Files\Gerber Files
