@@ -26,3 +26,9 @@ Upload the first version of BD driver`s hardware file.
 
 Upload the gerber files of it.
 Location:\MyWorkFor\Close-Loop-DC-Brush-Driver\Hardware\Product Files\Gerber Files
+
+2020-10-31 14:48:55
+上传了电机电流环控制的Ardiuno源码.
+
+Upload the code of current control.by Arduino UNO.
+Location:\MyWorkFor\Close-Loop-DC-Brush-Driver\Software\Arduino
